@@ -1,5 +1,4 @@
-# machine-learning-and-neuroscience
-Is Machine Learning being misused in Neuroscience?
+# Is Machine Learning being misused in Neuroscience?
 
 
 João Avelar Lobato
